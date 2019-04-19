@@ -1,5 +1,5 @@
 # testconflic
-##content
+##**bold** *italic* content
 
   a
   b
