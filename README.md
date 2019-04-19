@@ -1,9 +1,11 @@
 # testconflic
 ##**bold** *italic* content
 
-  a
-  b
-  c
+[GitHub](http://github.com)
+---
+    a
+    b
+    c
 
 * list1
 * list 2
